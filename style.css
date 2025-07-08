@@ -1,0 +1,29 @@
+nav{
+    
+    background-color: rgb(19, 194, 136);
+    padding: 20px;
+    display: block;
+    motion: auto;
+    text-align: center;
+}
+.one,p,h1{
+    display: inline;
+    padding: 10px;
+    
+}
+.one{
+     margin-left:15%;
+}
+h1{
+ margin-left: 0.5%;
+}
+img{
+    height: 400px;
+    width: 100%; 
+}
+img{
+    background-image: url(url(image.webp));
+    height: 350px;
+    width: 100%;
+
+}
